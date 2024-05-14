@@ -4,7 +4,13 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "SobreMim",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
         {
             "type": "java",
             "name": "Current File",
