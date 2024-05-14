@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
+        {
+            "type": "java",
             "name": "SobreMim",
             "request": "launch",
             "mainClass": "SobreMim",
