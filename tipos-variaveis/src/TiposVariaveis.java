@@ -4,7 +4,7 @@ public class TiposVariaveis {
         //estude a classe String que representa texto
 
         String meuNome = "Claudio Silva";
-        double salarioMinimo = 2500;
+        double salario = 2500;
 
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
