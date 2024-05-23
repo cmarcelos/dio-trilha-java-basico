@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class EstrutRepeticaoExemploDoWhile {
+public class EstrutRepeticaoDoWhile {
     public static void main(String[] args) {
         System.out.println("Discando...");
 		

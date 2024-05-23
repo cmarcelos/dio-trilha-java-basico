@@ -1,4 +1,4 @@
-public class EstrutRepeticaoExemploForEach {
+public class EstrutRepeticaoForEach {
     public static void main(String[] args) {
         // em arrays o indice inicia em ZERO
         String alunos[] = { "FELIPE", "JONAS", "JULIA", "MARCOS" };

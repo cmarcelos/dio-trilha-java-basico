@@ -4,7 +4,27 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "EstrutRepeticaoWhile",
+            "request": "launch",
+            "mainClass": "EstrutRepeticaoWhile",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
+        {
+            "type": "java",
+            "name": "EstrutRepeticaoExemploWhile",
+            "request": "launch",
+            "mainClass": "EstrutRepeticaoExemploWhile",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
+        {
+            "type": "java",
+            "name": "EstrutRepeticaoExemploForEach",
+            "request": "launch",
+            "mainClass": "EstrutRepeticaoExemploForEach",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
         {
             "type": "java",
             "name": "EstrutCondicionaisPlanoOperadora",

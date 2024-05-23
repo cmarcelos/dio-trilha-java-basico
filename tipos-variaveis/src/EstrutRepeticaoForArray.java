@@ -1,4 +1,4 @@
-public class EstrutRepeticaoExemploForArray {
+public class EstrutRepeticaoForArray {
     public static void main(String[] args) {
 
         // em arrays o indice inicia em ZERO

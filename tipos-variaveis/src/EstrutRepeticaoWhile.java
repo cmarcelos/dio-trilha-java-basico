@@ -1,6 +1,6 @@
 import java.util.concurrent.ThreadLocalRandom;
 
-public class EstrutRepeticaoExemploWhile {
+public class EstrutRepeticaoWhile {
     public static void main(String[] args) {
       double mesada = 50.0;
         while(mesada>0) {
