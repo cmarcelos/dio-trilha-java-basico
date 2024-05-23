@@ -4,6 +4,28 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
+        {
+            "type": "java",
+            "name": "EstrutCondicionaisPlanoOperadora",
+            "request": "launch",
+            "mainClass": "EstrutCondicionaisPlanoOperadora",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
+        {
+            "type": "java",
+            "name": "EstrutCondicionaisCaixaEletronico",
+            "request": "launch",
+            "mainClass": "EstrutCondicionaisCaixaEletronico",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaExepcionaisAboutMe",
+            "request": "launch",
+            "mainClass": "EstruturaExepcionaisAboutMe",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
         {
             "type": "java",
             "name": "AboutMe",
