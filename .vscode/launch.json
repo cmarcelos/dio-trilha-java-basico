@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe"
+        },
+        {
+            "type": "java",
             "name": "ExemploForEach",
             "request": "launch",
             "mainClass": "ExemploForEach"
