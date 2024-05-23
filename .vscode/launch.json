@@ -6,6 +6,31 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal2",
+            "request": "launch",
+            "mainClass": "ContaTerminal2",
+            "projectName": "dio-trilha-java-basico_f73721f2"
+        },
+        {
+            "type": "java",
             "name": "ContaTerminal",
             "request": "launch",
             "mainClass": "ContaTerminal",
